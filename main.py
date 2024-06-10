@@ -1,1 +1,1 @@
-print("Hello you! ")
+print("Vive les wad 24!!!")
