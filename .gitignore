@@ -1,0 +1,15 @@
+passwords.txt
+# tous les fichiers de ce nom sont ignorés
+
+*.txt
+#tous les fichiers .txt seront ignorés
+
+/subfolder
+
+#tous les dossiers du meme nom
+
+/subfolder/
+
+#tous les dossiers du meme nom dans le dossier racine du repo
+
+#le plus simple est de créer un dossier DO_NOT_COMMIT et de le noter ici ...
